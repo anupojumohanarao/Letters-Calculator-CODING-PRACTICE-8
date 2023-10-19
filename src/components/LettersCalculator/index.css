@@ -1,0 +1,76 @@
+/* Write your code here. */
+
+.main-bg-container {
+  background: linear-gradient(to right, #1d976c, #219a6f, #93f9b9);
+  height: 100vh;
+  padding: 30px;
+  margin: 0px;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-weight: 600;
+  margin-top: -320px;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.main-heading-1 {
+  color: #ffffff;
+  font-weight: 600;
+  margin-top: -20px;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.main-heading-2 {
+  color: #ffffff;
+  font-weight: 600;
+  margin-top: -20px;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.input {
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  height: 20px;
+  width: 300px;
+  padding: 15px;
+  border-radius: 5px;
+  outline: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.count-card {
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #219a6f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  height: 40px;
+  width: 150px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 400px;
+}
+
+.image {
+  width: 50%;
+}
